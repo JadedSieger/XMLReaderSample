@@ -1,0 +1,6 @@
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\bin\Debug\XML-Reader.exe.config
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\obj\Debug\XML-Reader.csprojResolveAssemblyReference.cache
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\bin\Debug\XML-Reader.exe
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\bin\Debug\XML-Reader.pdb
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\obj\Debug\XML-Reader.exe
+E:\2E Ramirez\xml\XML-Reader\XML-Reader\obj\Debug\XML-Reader.pdb
